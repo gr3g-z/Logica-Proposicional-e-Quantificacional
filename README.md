@@ -1,2 +1,3 @@
-# L-gica-Proposicional-e-Quantificacional
-Aqui esta uma implementação da lógica Quantificacional e Proposicional utilizando a bilbioteca nltk como apoio
+# Lógica Proposicional e Quantificacional
+Esse repositório contém uma implementação simples de lógica proposicional e quntificacional. Nesse código você pode criar sua base de crenças e adicionar suas crenças seguindo algumas formulas que foram pré-determinadas:
+
