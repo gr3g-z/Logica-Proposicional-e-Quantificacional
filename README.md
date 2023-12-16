@@ -11,21 +11,21 @@ Você pode adicionar frases que seguem esses dez casos que estão na coluna 'fra
 O popósito da base de crenças e basicamente garantir que uma série de crenças não seja conflitantes entre eles, de uma forma que, uma crença só pode ser adicionada a base se não tiver nenhum tipo de conflito com as crenças que já se encontram na base, segue abaixo os quatro casos de crenças que não são adicionadas: 
 
 
-1.  Se a crença for uma tautologia:
+1.  **Se a crença for uma tautologia:**
 
        Nesses Casos entrega um erro falando: 'Sua crença não será adicionada na base por ser uma Tautologia'
 
        *Exemplo:* Todo mortal é mortal
 
 
-2.  Se a crença for uma contradição:
+2.  **Se a crença for uma contradição:**
 
        Nesses Casos entrega um erro falando: 'Sua crença não será adicionada na base por ser uma Contradição'
 
        *Exemplo:* Algum mortal não é mortal
 
 
-3.  Se a nova crença que você quer adicionar é uma conclusão das crenças que já existem na base, ou seja, redundante:
+3.  **Se a nova crença que você quer adicionar é uma conclusão das crenças que já existem na base, ou seja, redundante:**
    
       Nesses Casos entrega um erro falando: 'Sua crença não será adicionada na base por ser redundante e não trazer valor informacional'
 
@@ -37,7 +37,7 @@ O popósito da base de crenças e basicamente garantir que uma série de crença
 
     Nesse caso a crença não é adicionada pois 'Socrates é mortal', pois já é possível deduzir com as crenças que estão na base.
 
-4.  Se a nova crença que você quer adicionar é uma contradição comparado com as crenças que já existem na base:
+4.  **Se a nova crença que você quer adicionar é uma contradição comparado com as crenças que já existem na base:**
 
        Nesses Casos o código de diz com quais crenças a sua nova esta conflitando e te dar a chance de substituir
 
