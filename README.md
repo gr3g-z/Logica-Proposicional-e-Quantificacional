@@ -47,7 +47,19 @@ O popósito da base de crenças e basicamente garantir que uma série de crença
     - Socrates é homem (já na base)
     - Socrates não é mortal (crença a ser adicionada)
   
-      Nesse casos, o seguinte acontece:
+      Ao colocar sua crença conflitante o seguinte aparece:
+
+      <img align="Center" src="img/procedimento1.png" width="75%" >
+
+      E junto a isso a opção de selecionar qual dos dois você quer trocar pela nova (1 ou 2):
+
+      <img align="Center" src="img/procedimento2.png" width="75%" >
+
+      Após selecionar algum dos números (Nesse caso o '1'), o seguinte acontece:
+
+      <img align="Center" src="img/procedimento3.png" width="75%" >
+
+      E agora sua base foi modificada
   
     
 
