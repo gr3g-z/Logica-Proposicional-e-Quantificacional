@@ -74,7 +74,7 @@ Sinta-se a vontade para utilizar o ambiente já preparado para uso com as funç�
 - Spacy: Utilizado no tradutor para lematização, o que aumenta a qualidade dele.
 - Re: Também utilizado para o funcionamento do tradutor.
 
-Apenas isso, o resto foi feito na mão mesmo. É possível ver o que foi feito em '.py'
+Apenas isso, o resto foi feito na mão mesmo. É possível ver o que foi feito em 'Main.py'
   
     
 
