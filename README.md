@@ -35,7 +35,7 @@ O popósito da base de crenças e basicamente garantir que uma série de crença
     - Socrates é homem (já na base)
     - Socrates é mortal (crença a ser adicionada)
 
-    Nesse caso a crença não é adicionada pois 'Socrates é mortal', pois já é possível deduzir com as crenças que estão na base.
+    Nesse caso a crença 'Socrates é mortal' não é adicionada, pois já é possível deduzir com as crenças que estão na base.
 
 4.  **Se a nova crença que você quer adicionar é uma contradição comparado com as crenças que já existem na base:**
 
