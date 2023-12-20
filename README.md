@@ -60,6 +60,21 @@ O popósito da base de crenças e basicamente garantir que uma série de crença
       <img align="Center" src="img/procedimento3.png" width="75%" >
 
       E agora sua base foi modificada
+
+## Como usar?
+
+É bem simples, basta você clonar o repositório e usar apenas duas funções:
+- Criar_base_de_crenca: É uma função que é necessário passar como parâmetro o nome da sua base de crença, e sim, isso implica em dizer que você pode criar mais de uma, de uma forma que a crença que esta em uma base não influencia o que esta em nenhuma outra
+- Validação_informacional_crença: Essa é a função que você usa para adicionar uma crença para sua base, e ela passa por todas essas 4 etapas de validação (introduzidos a cima). O unico parâmetro que é necessário passar é o nome da base da qual você vai adicionar a sua crença
+
+Sinta-se a vontade para utilizar o ambiente já preparado para uso com as funções importadas em 'Usando_funções.ipynb', basta você rodar as células e você será capaz de ver tudo funcionando.
+
+## Bibliotecas utilizadas
+- NLTK: Foi utilizado o Tableaux criado por essa bibliteca
+- Spacy: Utilizado no tradutor para lematização, o que aumenta a qualidade dele.
+- Re: Também utilizado para o funcionamento do tradutor.
+
+Apenas isso, o resto foi feito na mão mesmo. É possível ver o que foi feito em '.py'
   
     
 
