@@ -39,7 +39,7 @@ O popósito da base de crenças e basicamente garantir que uma série de crença
 
 4.  **Se a nova crença que você quer adicionar é uma contradição comparado com as crenças que já existem na base:**
 
-       Nesses Casos o código de diz com quais crenças a sua nova esta conflitando e te dar a chance de substituir
+       Nesses Casos o código te diz com quais crenças a sua nova esta conflitando e te dar a chance de substituir
 
        *Exemplo:*
  
