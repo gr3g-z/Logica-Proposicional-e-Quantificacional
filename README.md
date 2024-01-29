@@ -1,5 +1,8 @@
 # Lógica Proposicional e Quantificacional
-## introdução
+
+### Projeto realizado por Beatriz Rodovalho, Gabriel Benga, Lucas Gregorio e Thiago Carvalho.
+
+## Introdução
 Esse repositório contém uma implementação simples de lógica proposicional e quantificacional. Nesse código, é possível criar bases de crenças e neles adicionar suas crenças, seguindo alguns formatos de frases que foram pré-determinados: 
     
 <img align="Center" src="img/Formulas.png" width="75%" >
